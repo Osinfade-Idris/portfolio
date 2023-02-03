@@ -61,7 +61,7 @@ const About = () => {
                     <Icon icon="css" />
                   </div>
                 </Tilt>
-                <p className="text-center mt-3">CSS3</p>
+                <p className="text-center mt-3">CSS</p>
               </div>
 
               <div>
