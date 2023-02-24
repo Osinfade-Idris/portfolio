@@ -21,7 +21,7 @@ const Footer = () => {
           </div>
 
           <div className="col-lg">
-            <a href="tel:+2348147016112" className="footer-mail mb-3 mb-lg-0">
+            <a href="tel:+2347069576909" className="footer-mail mb-3 mb-lg-0">
               +2347069576909
             </a>
           </div>
